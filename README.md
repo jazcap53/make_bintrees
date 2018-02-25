@@ -1,9 +1,9 @@
 ## Make Bintrees
 
-### Easily create "Custom Tests" binary trees in the format used by popular code contest site
+### Easily create "Custom Tests" binary trees in the format used by codefights.com
 
-I find the format for binary trees used on this site to be difficult to read and 
-write. So this script converts trees, expressed very simply, into the site's format.
+I find the format for binary trees used on codefights to be difficult to read and 
+write. So this script converts trees, expressed very simply, into codefights' format.
 
 For example, create a text file that looks like this:
 
@@ -13,11 +13,12 @@ For example, create a text file that looks like this:
 
 to represent the tree
 
-       1
-      /  \
-     2    2
-    /      \
-   3        3
+        1
+       /  \
+      2    2
+     /      \
+    3        3
+
 
 where an 'x' represents a null child.
 
