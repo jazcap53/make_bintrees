@@ -26,4 +26,4 @@ Pass your text file as a command-line argument to this Python script. The output
 in "Custom Tests -> Add Custom Test -> Add Test Case". Then put `true` or `false` into the 'Output' field,
 and you should have a good test case.
 
-This code is released under the MIT License. Please see LICENSE.txt for details.
+This code is released under the MIT License; please see LICENSE.txt for details.
